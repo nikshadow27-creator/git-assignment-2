@@ -65,6 +65,7 @@ git pull
 
 4. Add a new line below: \
 WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+I prefer cakes over Ice cream as I have sensitive theeth which causes my teeth to pain upon eating some cold ice crea,
 
 5. Add, commit, and push your changes:
   - git add README.md
